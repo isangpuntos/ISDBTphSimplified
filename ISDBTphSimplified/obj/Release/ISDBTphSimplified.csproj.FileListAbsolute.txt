@@ -1,0 +1,27 @@
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.exe.config
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\Interop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\AxInterop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.csproj.ResolveComReference.cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.pdb
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Release\Interop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Release\AxInterop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.Form1.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.Properties.Resources.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.csproj.GenerateResource.Cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.pdb
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.exe.config
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.csproj.ResolveComReference.cache
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.exe
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.pdb
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.exe
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\bin\Release\ISDBTphSimplified.pdb
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\bin\Release\Interop.AXVLC.dll
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\bin\Release\AxInterop.AXVLC.dll
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\Interop.AXVLC.dll
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\AxInterop.AXVLC.dll
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.Form1.resources
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.Properties.Resources.resources
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.csproj.GenerateResource.Cache
+C:\Users\kdvso\Desktop\ISDBTphSimplified\ISDBTphSimplified\obj\Release\ISDBTphSimplified.csprojResolveAssemblyReference.cache

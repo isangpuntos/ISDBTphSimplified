@@ -1,0 +1,14 @@
+c:\users\kdvso\documents\visual studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Debug\ISDBTphSimplified.exe.config
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Debug\ISDBTphSimplified.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Debug\ISDBTphSimplified.pdb
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Debug\Interop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.csprojResolveAssemblyReference.cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\Interop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.csproj.ResolveComReference.cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.Form1.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.Properties.Resources.resources
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.csproj.GenerateResource.Cache
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.exe
+C:\Users\kdvso\Documents\Visual Studio 2015\Projects\ISDBTphSimplified\ISDBTphSimplified\obj\Debug\ISDBTphSimplified.pdb
